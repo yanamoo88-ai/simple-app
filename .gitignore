@@ -1,0 +1,8 @@
+.DS_Store
+example.txt
+
+*.zip
+*.mp4
+.env
+
+// node_modules/ - ignorirovat vsy papky 
